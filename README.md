@@ -1,2 +1,2 @@
-# JAVA-B-SICO---LISTA
+# JAVA SIMPLES
 Exercícios básicos de Lógica de Programação em Java.
